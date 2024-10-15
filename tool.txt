@@ -4,3 +4,4 @@ linux
 scripting
 git
 all these tools are good for automation
+this the software lifecycle
